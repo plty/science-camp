@@ -1,22 +1,8 @@
 # Science Camp 
 # Day 1
 
----
+---?include=../../problems/almostunionfind/PITCHME.md
 
-## almostunionfind
-
-+++
-
-## Kenapa Susah?
-### @css[fragment](karena node bisa punya anak)
-
-+++ 
-
-## Why ?
-
-+++
-
-## Blabla
 
 ---
 
