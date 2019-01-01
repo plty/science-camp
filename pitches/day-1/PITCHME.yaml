@@ -3,7 +3,7 @@ description : "Science Camp Slides"
 published : true
 
 theme : night
-theme-override: PITCHME.css
+theme-override: pitches/day-1/PITCHME.css
 highlight : atom-one-dark
 code-line-numbers : true
 
