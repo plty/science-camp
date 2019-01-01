@@ -1,4 +1,5 @@
-## Hello, World!
+# Science Camp 
+# Day 1
 
 ---
 
