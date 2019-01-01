@@ -5,3 +5,9 @@
   max-height: 60vh !important;
   overflow: hidden !important;
 }
+
+.reveal .slides section .code-presenting-annotation {
+  padding: 0 .25em;
+  font-size: 0.5em
+}
+  
