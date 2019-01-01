@@ -2,6 +2,6 @@
   border-radius: 10px;
 }
 
-.reveal pre code span {
+.reveal pre code .line {
   display: block;
 }
