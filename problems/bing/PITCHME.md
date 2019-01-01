@@ -2,7 +2,7 @@
 
 +++
 @snap[north-west]
-#### bing
+## bing
 @snapend
 
 ## Kenapa Susah?

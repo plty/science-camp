@@ -22,6 +22,7 @@
   background: rgba(207, 207, 207, 0.85);
 }
 
-.title h5 {
+.title h2 {
   color: rgba(207, 207, 207, 0.75);
+  font-size: 0.35em;
 }
