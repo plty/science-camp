@@ -1,8 +1,8 @@
 ## Bing It On
 
 +++
-@snap[north-west bg-blue]
-#### bing
+@snap[north-west]
+@size[1.5em](`bing`)
 @snapend
 
 ## Kenapa Susah?
