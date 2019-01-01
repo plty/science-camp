@@ -1,11 +1,15 @@
-title : "Science Camp"
-description : "Science Camp Slides"
-published : true
+# layout
+layout : center
 
-code-line-numbers : true
+
+# look and feel
+code-line-numbers : true 
+highlight : atom-one-dark
 theme : night
 theme-override: pitches/day-1/PITCHME.css
-highlight : atom-one-dark
 
-layout : center
+# behavior
+published : true
 transition : none
+
+# plugins
