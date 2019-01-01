@@ -8,7 +8,15 @@
 ## Kenapa Susah?
 ### @css[fragment](Karena node bisa punya anak)
 
-+++?code=./solution/almostunionfind.cpp&lang=cpp
++++
+@snap[north-west span-100]
+#### almostunionfind
+@snapend
+
+## Gimana cara forcenya ?
+@css[fragment](![Diagram](problems/almostunionfind/img/diagram.png))
+
++++?code=problems/almostunionfind/solution/almostunionfind.cpp&lang=cpp
 
 @[35-64](Yang matters)
 @[38-43](Initialization)
