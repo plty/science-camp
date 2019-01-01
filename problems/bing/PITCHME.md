@@ -1,7 +1,7 @@
 ## Bing It On
 
 +++
-@snap[north-west span-100]
+@snap[north-west span-100 bg-blue]
 #### bing
 @snapend
 
