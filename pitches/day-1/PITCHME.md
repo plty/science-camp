@@ -1,7 +1,7 @@
 # Science Camp 
 # Day 1
 
----?include=problems/almostunionfind/PITCHME.md
+---?include=problems/bing/PITCHME.md
 
 --- 
 
