@@ -1,3 +1,7 @@
 .reveal pre code {
   border-radius: 10px;
 }
+
+.reveal pre code span {
+  display: block;
+}

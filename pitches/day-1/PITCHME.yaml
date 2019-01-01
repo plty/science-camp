@@ -4,7 +4,7 @@ published : true
 
 theme : night
 theme-override: pitches/day-1/PITCHME.css
-highlight : atom-one-dark
+highlight : dracula
 code-line-numbers : true
 
 layout : center
