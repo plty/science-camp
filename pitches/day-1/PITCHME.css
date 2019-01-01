@@ -12,8 +12,12 @@
 }
 
 .reveal .slides section .code-presenting-annotation {
-  /* margin-top: -1em; */
   padding: 0 1em;
   font-size: 0.5em;
 }
   
+.reveal .slides section img {
+  border: none;
+  border-radius: 10px;
+  background: rgba(207, 207, 207, 0.85);
+}
