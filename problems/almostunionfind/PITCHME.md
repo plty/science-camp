@@ -1,7 +1,7 @@
 ## Almost Union Find
 
 +++
-@snap[north-west span-100]
+@snap[north-west title]
 #### almostunionfind
 @snapend
 
@@ -9,7 +9,7 @@
 ### @css[fragment](Karena node bisa punya anak)
 
 +++
-@snap[north-west span-100]
+@snap[north-west title]
 #### almostunionfind
 @snapend
 
