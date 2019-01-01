@@ -2,7 +2,7 @@
 
 +++
 @snap[north-west]
-@size[1.5em](`bing`)
+#### bing
 @snapend
 
 ## Kenapa Susah?
