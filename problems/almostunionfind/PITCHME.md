@@ -1,6 +1,14 @@
 ## Almost Union Find
 
 +++
+@snap[north text-white span-100]
+almostunionfind
+@snapend
+
+## Kenapa Susah?
+### @css[fragment](Karena node bisa punya anak)
+
++++ 
 @snap[north text-white span-50]
 almostunionfind
 @snapend
