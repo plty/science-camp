@@ -13,8 +13,8 @@
 #### almostunionfind
 @snapend
 
-## Gimana cara forcenya ?
-@css[fragment](![Diagram](problems/almostunionfind/img/diagram.png))
+### Gimana cara forcenya ?
+![Diagram](problems/almostunionfind/img/diagram.png)
 
 +++?code=problems/almostunionfind/solution/almostunionfind.cpp&lang=cpp
 
