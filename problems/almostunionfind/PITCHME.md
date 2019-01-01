@@ -14,7 +14,7 @@
 @snapend
 
 ### Gimana cara forcenya ?
-![Diagram](problems/almostunionfind/img/diagram.png)
+@img[fragment](problems/almostunionfind/img/diagram.png)
 
 +++?code=problems/almostunionfind/solution/almostunionfind.cpp&lang=cpp
 
