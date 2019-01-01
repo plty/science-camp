@@ -13,14 +13,15 @@ def main():
 
     problems = Problem.get_all()
     for problem in problems:
-        formatted_tags = ", ".join(["`{}`".format(tag) for tag in problem.tags()])
+        formatted_tags = ", ".join(
+                ["`{}`".format(tag) for tag in problem.tags()])
         line = "| {} | {} |".format(problem.name, formatted_tags)
         lines += [line]
     table = "\n".join(lines)
 
     template = ''.join([line for line in open(template_dir)])
     open(readme_dir, "w").write(template.format(table))
-    
+
 
 class Problem: 
     problems_dir = os.path.join(project_dir, "problems")
@@ -30,7 +31,9 @@ class Problem:
     def get_all():
         problems = []
         for problem_name in os.listdir(problems_dir):
-            problem = Problem(problem_name, os.path.join(problems_dir, problem_name))
+            problem = Problem(
+                    problem_name, 
+                    os.path.join(problems_dir, problem_name))
             problems += [problem]
         return problems
 
@@ -44,7 +47,7 @@ class Problem:
 
     def __init__(self, name, path):
         self.name, self.path = name, path
-    
+
     def __str__(self):
         return self.name
 
