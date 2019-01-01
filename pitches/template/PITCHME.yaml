@@ -4,6 +4,7 @@ published : true
 
 theme : night
 highlight : atom-one-dark
+code-line-numbers : true
 
 layout : center
 transition : none

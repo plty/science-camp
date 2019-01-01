@@ -10,7 +10,10 @@
 
 +++?code=problems/bing/solution/bing.cpp&lang=cpp
 
+@[7-10](Reading)
+@[12-13](The magic.)
+
 +++
 
-## Blabla
+## Done!
 
