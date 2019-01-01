@@ -61,7 +61,7 @@ class Problem:
 
     def __init__(self, path):
         self.path = path
-        with open(os.path.join(self.path, "meta.yml")) as f:
+        with open(os.path.join(self.path, "meta.yaml")) as f:
             self.meta = yaml.safe_load(f)
 
     def __str__(self):
