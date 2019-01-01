@@ -8,7 +8,7 @@ readme_dir = os.path.join(project_dir, "README.md")
 problems_dir = os.path.join(project_dir, "problems")
 def main():
     header = "|Platform | Problem | Tags | Difficulty | URL |"
-    formatting = "| --- | --- | --- | --- | --- |"
+    formatting = "| :-: | :-- | :-- | :-: | :-- |"
     lines = [header, formatting]
 
     problems = Problem.get_all()
