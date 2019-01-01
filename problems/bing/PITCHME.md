@@ -1,16 +1,14 @@
-## Almost Union Find
+## Bing It On
 
 +++
 @snap[north-west span-100]
-#### almostunionfind
+#### bing
 @snapend
 
 ## Kenapa Susah?
-### @css[fragment](Karena node bisa punya anak)
+### @css[fragment](Ga kok ga susah.)
 
-+++ 
-
-## Why ?
++++?code=problems/bing/solution/bing.cpp&lang=cpp
 
 +++
 
