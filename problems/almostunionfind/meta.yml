@@ -1,0 +1,10 @@
+name: almostunionfind
+platform: kattis
+url: https://open.kattis.com/problems/almostunionfind
+difficulty: 4.0
+public_tags: 
+  - map
+
+private_tags:
+  - short-code
+  - cheap-trick

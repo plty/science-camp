@@ -1,0 +1,9 @@
+name: bing
+platform: kattis
+url: https://open.kattis.com/problems/bing
+difficulty: 6.0
+public_tags: 
+  - ufds
+
+private_tags:
+  - ds-manipulation
