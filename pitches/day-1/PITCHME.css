@@ -2,7 +2,7 @@
   font-size: 0.8em;
   border-radius: 10px;
 
-  max-height: 60vh !important;
+  max-height: 50vh !important;
 }
 
 @media (device-width: 100vw) and (device-height: 100vh) {
@@ -12,7 +12,7 @@
 }
 
 .reveal .slides section .code-presenting-annotation {
-  margin-top: -1em;
+  /* margin-top: -1em; */
   padding: 0 1em;
   font-size: 0.5em;
 }
