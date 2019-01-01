@@ -1,7 +1,7 @@
 ## Bing It On
 
 +++
-@snap[north-west]
+@snap[north-west title]
 ## bing
 @snapend
 
