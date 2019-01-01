@@ -15,7 +15,7 @@ def main():
     for problem in problems:
         formatted_tags = ", ".join(
                 ["`{}`".format(tag) for tag in problem.tags()])
-        line = "| {} | *{}* | {} | {} | {} |".format(
+        line = "| {} | **{}** | {} | {} | {} |".format(
                 problem.platform(), 
                 problem.name(), 
                 formatted_tags, 
