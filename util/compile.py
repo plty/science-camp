@@ -48,7 +48,7 @@ class Problem:
         return self.meta.get("name")
 
     def tags(self):
-        return self.meta.get("public_tags")
+        return self.meta.get("public_tags") + self.meta.get("private_tags")
 
     def platform(self):
         return self.meta.get("platform")
