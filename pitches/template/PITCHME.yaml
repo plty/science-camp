@@ -1,0 +1,9 @@
+title : "Science Camp"
+description : "Science Camp Slides"
+published : true
+
+theme : night
+highlight : atom-one-dark
+
+layout : center
+transition : none
