@@ -45,19 +45,19 @@ class Problem:
         return Problem(os.path.join(problems_dir, name))
 
     def name(self):
-        return self.meta.get("name")
+        return self.meta.get("name", "???")
 
     def tags(self):
-        return self.meta.get("public_tags") + self.meta.get("private_tags")
+        return self.meta.get("public_tags", []) + self.meta.get("private_tags", [])
 
     def platform(self):
-        return self.meta.get("platform")
+        return self.meta.get("platform", "-")
 
     def difficulty(self):
-        return self.meta.get("difficulty")
+        return self.meta.get("difficulty", "-")
 
     def url(self):
-        return self.meta.get("url")
+        return self.meta.get("url", "")
 
     def __init__(self, path):
         self.path = path
