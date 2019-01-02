@@ -6,7 +6,7 @@ layout : center
 code-line-numbers : true 
 highlight : atom-one-dark
 theme : night
-theme-override: pitches/day-1/PITCHME.css
+theme-override: pitches/default/PITCHME.css
 
 # behavior
 published : true
