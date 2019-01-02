@@ -1,0 +1,28 @@
+.reveal pre code {
+  font-size: 0.8em;
+  border-radius: 10px;
+
+  max-height: 50vh !important;
+}
+
+@media (device-width: 100vw) and (device-height: 100vh) {
+  .reveal pre code {
+    max-height: 50vh !important;
+  }
+}
+
+.reveal .slides section .code-presenting-annotation {
+  padding: 0 1em;
+  font-size: 0.5em;
+}
+  
+.reveal .slides section img {
+  border: none;
+  border-radius: 10px;
+  background: rgba(207, 207, 207, 0.85);
+}
+
+.title h2 {
+  color: rgba(207, 207, 207, 0.75);
+  font-size: 0.8em;
+}
