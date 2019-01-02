@@ -19,6 +19,7 @@
 .reveal .slides section .code-presenting-annotation code {
   background-color: rgba(69, 39, 160,0.8);
   border-radius: 5px;
+  padding: 2px 3px;
 }
   
 .reveal .slides section img {
