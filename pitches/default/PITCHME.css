@@ -15,6 +15,11 @@
   padding: 0 1em;
   font-size: 0.5em;
 }
+
+.reveal .slides section .code-presenting-annotation code {
+  background-color: rgba(69, 39, 160,0.8);
+  border-radius: 5px;
+}
   
 .reveal .slides section img {
   border: none;
