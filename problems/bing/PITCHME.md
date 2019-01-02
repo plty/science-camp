@@ -14,7 +14,3 @@
 @[10](Give the solution.)
 @[12-13](The magic.)
 
-+++
-
-## Done!
-
