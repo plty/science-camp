@@ -8,7 +8,7 @@
 ## Gasusah kan
 ### @css[fragment](Tapi mungkin kebetulan lw cupu)
 
-+++?code=problems/bing/solution/bing.cpp&lang=cpp
++++?code=problems/baloni/solution/baloni.py
 
 @[5](Arrow Count)
 @[8-10](Kalo misalnya gada arrow yang bisa mletusin)
