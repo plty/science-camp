@@ -1,17 +1,17 @@
 def main():
     n = int(input())
-    h = map(int, input().split())
+    baloons = map(int, input().split())
 
-    d = {}
-    ans = 0
-    for x in h: 
-        if d.get(x, 0) == 0:
-            ans += 1
-            d[x - 1] = d.get(x - 1, 0) + 1
+    arrow = {}
+    arrow_used = 0
+    for height in baloons: 
+        if arrow.get(height, 0) == 0:
+            arrow_used += 1
         else:
-            d[x] -= 1
-            d[x - 1] = d.get(x - 1, 0) + 1
-    print(ans) 
+            arrow[height] -= 1
+
+        arrow[height - 1] = arrow.get(height - 1, 0) + 1
+    print(arrow_used) 
 
 if __name__ == "__main__":
     main()
