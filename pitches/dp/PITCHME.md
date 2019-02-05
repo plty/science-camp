@@ -1,5 +1,8 @@
-## ~~Dewi Persik~~
-## @css[fragment](Hello all)
+# DP
+### @css[fragment](~Down Payment~)
+### @css[fragment](~Dewi Persik~)
+### @css[fragment](~Double Pen...~)
+### @css[fragment](~Dynamic Programming~)
 
 ---?include=problems/baloni/PITCHME.md
 
