@@ -11,8 +11,15 @@ Given coin system, lw harus determine apakah system coin itu bisa di-greedy.
 Coin yang solusi greedy nya sama dengan 
 solusi optimalnya disebut juga canonical coin system
 
+
++++
+
+@snap[north-west title]
+## canonical
+@snapend
+
 Contoh coin canonical itu sistem mata uang Indonesia, 
-`$\{100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000\}$`
+`$\{1, 2, 10, 20, 50, 100\}$`
 
 
 Contoh coin yang ga canonical misal di sistem `$\{1, 5, 8\}$`
