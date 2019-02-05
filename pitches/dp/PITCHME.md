@@ -14,7 +14,7 @@
 
 ---
 
-## Kalo kurang cepet gimana?
+## Kurang cepet gan?
 
 @ul[squares]
 
