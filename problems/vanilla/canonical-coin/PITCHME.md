@@ -22,9 +22,8 @@ Contoh coin canonical itu sistem mata uang Indonesia,
 `$\{1, 2, 10, 20, 50, 100\}$`
 
 
-Contoh coin yang ga canonical misal di sistem `$\{1, 5, 8\}$`
-counterexample-nya itu `$10$` dikarenakan 
-`$8 + 1 + 1$` lebih buruk dari `$5 + 5$` 
+Contoh coin yang ga canonical itu `$\{1, 5, 8\}$`.
+dikarenakan untuk `$10$` solusi greedy `$8 + 1 + 1$` lebih buruk dari `$5 + 5$`.
 
 +++?code=problems/vanilla/canonical-coin/canonical.cpp
 
