@@ -10,22 +10,16 @@
 
 ## Ya gimana crny bgst.
 
-### @css[fragment](Function **harus** __stateless__)
+### @css[fragment](Function)
 
 ---
 
 ## Kurang cepet gan?
 
-@ul[squares]
-
-- Reduksi
-- Coba reduksi lagi
-- Balik statenya kalo masuk akal
-- Keknya masih bisa di reduksi
-- Ada baiknya buat lw bunuh diri
-
-@ulend
-
+##### @css[fragment](Reduksi)
+##### @css[fragment](Biasanya masih bisa direduksi lagi)
+##### @css[fragment](Coba balik statenya)
+##### @css[fragment](Ada baiknya buat lw berpikir untuk bunuh diri)
 
 ---?include=problems/baloni/PITCHME.md
 
