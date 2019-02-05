@@ -1,0 +1,7 @@
+name: canonical
+platform: kattis
+url: https://open.kattis.com/problems/canonical
+difficulty: 6.0
+public_tags: 
+  - dynamic-programming
+

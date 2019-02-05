@@ -1,9 +1,0 @@
-#!/bin/bash
-for filename in "$@"; do
-    basename=${filename%%.*}
-    if [ "$filename" == "$basename" ]; then 
-        echo "$filename is extensionless"
-    else
-        g++ -std=c++11 -o $basename $filename
-    fi
-done

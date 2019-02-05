@@ -1,0 +1,15 @@
+# layout
+layout : center
+
+
+# look and feel
+code-line-numbers : true 
+highlight : atom-one-dark
+theme : night
+theme-override: pitches/default/PITCHME.css
+
+# behavior
+published : true
+transition : none
+
+# plugins
