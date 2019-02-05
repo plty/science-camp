@@ -1,8 +1,31 @@
 # DP
-### @css[fragment](~~Down Payment~~)
 ### @css[fragment](~~Dewi Persik~~)
-### @css[fragment](~~Double Pen...~~)
 ### @css[fragment](Dynamic Programming)
+
+---
+
+## Why Dynamic Programming?
+
+--- 
+
+## Ya gimana crny bgst.
+
+### @css[fragment](Function **harus** __stateless__)
+
+---
+
+## Kalo kurang cepet gimana?
+
+@ul[squares]
+
+- Reduksi
+- Coba reduksi lagi
+- Balik statenya kalo masuk akal
+- Keknya masih bisa di reduksi
+- Ada baiknya buat lw bunuh diri
+
+@ulend
+
 
 ---?include=problems/baloni/PITCHME.md
 
