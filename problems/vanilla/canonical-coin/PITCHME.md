@@ -12,10 +12,10 @@ Coin yang solusi greedy nya sama dengan
 solusi optimalnya disebut juga canonical coin system
 
 Contoh coin canonical itu sistem mata uang Indonesia, 
-`${100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000}$`
+`$\{100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000\}$`
 
 
-Contoh coin yang ga canonical misal di sistem `${1, 5, 8}$`
+Contoh coin yang ga canonical misal di sistem `$\{1, 5, 8\}$`
 counterexample-nya itu `$10$` dikarenakan 
 `$8 + 1 + 1$` lebih buruk dari `$5 + 5$` 
 
