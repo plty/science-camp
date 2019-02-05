@@ -33,3 +33,8 @@
   color: rgba(207, 207, 207, 0.75);
   font-size: 0.8em;
 }
+
+ul.squares {
+  list-style-type: square;
+}
+
