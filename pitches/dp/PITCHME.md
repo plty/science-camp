@@ -1,6 +1,5 @@
 # DP
-### @css[fragment](~~Dewi Persik~~)
-### @css[fragment](Dynamic Programming)
+### @css[fragment](~~Dewi Persik~~) ### @css[fragment](Dynamic Programming)
 
 ---
 
@@ -9,7 +8,6 @@
 --- 
 
 ## Ya gimana crny bgst.
-
 ### @css[fragment](Function)
 
 ---
@@ -21,7 +19,7 @@
 ##### @css[fragment](Coba balik statenya)
 ##### @css[fragment](Ada baiknya buat lw berpikir untuk bunuh diri)
 
----?include=problems/baloni/PITCHME.md
+---?include=problems/vanilla/canonical-coin/PITCHME.md
 
 ---?include=problems/bing/PITCHME.md
 

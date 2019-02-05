@@ -17,6 +17,11 @@ int main() {
         for (int i = 0; i < max_value * 2; i++)
             opt[i] = min(opt[i], opt[i - coin] + 1]);
 
-    for (int coin: coins) {
+    // Ini males, infe yet correct
+    int cid = 0;
+    for (int i = 0; i < max_value * 2; i++) {
+        if (i == coin[cid])
+            cid++;
+        greedy[i] = greedy[i - coin] + 1;
     }
 }
