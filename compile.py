@@ -3,7 +3,7 @@ import os
 import yaml
 file_dir = os.path.dirname(os.path.realpath(__file__))
 template_dir = os.path.join(file_dir, "template")
-project_dir = os.path.join(file_dir, "../")
+project_dir = os.path.join(file_dir, "./")
 readme_dir = os.path.join(project_dir, "README.md")
 problems_dir = os.path.join(project_dir, "problems")
 def main():
